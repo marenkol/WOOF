@@ -1,0 +1,34 @@
+
+/* GENERAL STYLES */
+body { padding-top: 70px; }
+
+
+
+/* NAV */
+.woofit-nav__logo {
+	height: 30px;
+}
+
+.woofit_modal__form {
+	padding: 20px;
+}
+
+/*=============================================
+INTRO SECTION
+=============================================*/
+.woofit_intro {
+	padding: 40px 0;
+}
+
+
+/*=============================================
+DETAILS SECTION
+=============================================*/
+.woofit_details {
+	padding: 40px 0;
+	background-color: #eee;
+}
+
+/*=============================================
+GALERY SECTION
+=============================================*/
